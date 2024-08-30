@@ -3,7 +3,7 @@
 
 Entraînée à partir de tous les fichiers audio de la Confrérie du NOD dans Command and Conquer Tiberian Sun par Westwood Studios (1999).
 
-Parfaite pour un assistant domotique HomeAssistant vénère. Je recommande fortement d’utiliser GPT comme agent conversationnel, en vous assurant qu’il soit en colère et sarcastique grâce à votre master prompt.
+Parfaite pour un pipeline HomeAssistant vénère. Je recommande fortement d’utiliser GPT comme agent conversationnel, en vous assurant qu’il soit en colère et sarcastique grâce à votre master prompt.
 
 ---
 
